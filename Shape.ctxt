@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Shape()
+comment0.text=\ \r\n\ Constructor\ \r\n
+comment1.params=style
+comment1.target=int[][]\ loadShape(int)
+comment1.text=\r\n\ load\ one\ of\ shape\ from\ the\ three\ dimension\ matrix\ shape\ \r\n
+comment2.params=data
+comment2.target=int[][]\ rotateSquareMatrix(int[][])
+comment2.text=\r\n\ rotate\ the\ square\ matrix\ \r\n
+comment3.params=size
+comment3.target=int[][]\ createTempSquareMatrix(int)
+comment3.text=\r\n\ create\ a\ temporary\ square\ matrix\ for\ the\ rotateSquareMatrix(int[][]\ data)\ method\r\n
+numComments=4

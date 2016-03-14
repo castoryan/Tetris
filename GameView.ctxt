@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameView()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameView\r\n
+comment1.params=shape\ window\ xPosition\ yPosition
+comment1.target=void\ drawShape(int[][],\ Square[][],\ int,\ int)
+comment1.text=\r\n\ Method\ of\ drawing\ shape\ on\ canvas\r\n
+comment2.params=reference\ window
+comment2.target=void\ eraseShape(int[][],\ Square[][])
+comment2.text=\r\n\ Method\ of\ erasing\ shape\ on\ canvas\r\n
+comment3.params=board\ window
+comment3.target=void\ drawBoard(int[][],\ Square[][])
+comment3.text=\r\n\ Method\ of\ drawing\ board\ on\ canvas\r\n
+comment4.params=reference\ window
+comment4.target=void\ eraseBoard(int[][],\ Square[][])
+comment4.text=\r\n\ Method\ of\ erasing\ board\ on\ canvas\r\n
+comment5.params=board\ window
+comment5.target=void\ drawBoarder(int[][],\ Square[][])
+comment5.text=\r\n\ Method\ of\ drawing\ boarder\ on\ canvas\r\n
+comment6.params=colornumber
+comment6.target=java.lang.String\ Color(int)
+comment6.text=\r\n\ Method\ of\ chosing\ color\ according\ to\ the\ index.\r\n
+numComments=7

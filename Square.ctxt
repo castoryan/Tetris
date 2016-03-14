@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ col\ toDraw\ length
+comment0.target=Square(int,\ int,\ java.lang.String,\ boolean,\ int)
+comment0.text=\r\n\ Create\ a\ new\ square\ at\ default\ position\ with\ default\ color.\r\n
+comment1.params=newSize
+comment1.target=void\ changeSize(int)
+comment1.text=\r\n\ Change\ the\ size\ to\ the\ new\ size\ (in\ pixels).\ Size\ must\ be\ >\=\ 0.\r\n
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\r\n\ Draw\ the\ square\ with\ current\ specifications\ on\ screen.\r\n
+numComments=3
